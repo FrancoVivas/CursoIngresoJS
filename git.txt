@@ -1,0 +1,14 @@
+git clone 
+git status
+git add .
+git commit -m "un comentario"
+git push origin master
+git pull origin master
+ctrl l "limpiar consola"
+
+alert
+confirm
+prompt
+Ctrl {}
+/*
++/
